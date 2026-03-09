@@ -1,0 +1,13 @@
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-google-genai
+pypdf
+requests
+beautifulsoup4
+pandas
+pdfplumber
+google-generativeai

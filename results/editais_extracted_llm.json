@@ -1,0 +1,1985 @@
+[
+    {
+        "edital_name": "Loteamento Jardim das Flores Empreendimentos Ltda",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2153/documentos/sl-doc-2153-6945897175c54-6945897176d79.pdf",
+        "extracted_data": {
+            "auction_type": "Extrajudicial",
+            "judge": null,
+            "auctioneer": {
+                "name": "Anderson Lopes de Paula",
+                "registration": "1083"
+            },
+            "address": "Av. Brigadeiro Faria Lima, 3729 – 5º Andar, Itaim Bibi",
+            "website": "www.e-leiloeiro.com.br",
+            "legal_case": null,
+            "parties": {
+                "plaintiff": "O LOTEAMENTO JARDIM DAS FLORES EMPREENDIMENTOS LTDA",
+                "defendant": null
+            },
+            "auction_dates": [
+                "11 de março de 2026 às 11h00",
+                "11 de março de 2026 às 11:30horas",
+                "12 de março de 2026 às 11h00"
+            ],
+            "contact": [
+                "0800-355-8000",
+                "11 99717.6740",
+                "11 4372 9034",
+                "11 98288 1000",
+                "(16) 0800-355-8000",
+                "(16) 99240-8000",
+                "andersondepaula@e-leiloeiro.com.br",
+                "atendimento@e-leiloes.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Lote 02 da Quadra T, do loteamento Jardim das Flores, para uso misto (residencial e comercial), de forma regular, situado em Serra Azul/SP, Comarca de Cravinhos, com frente para a Rua 07, distante 92,60 metros do início da curva de concordância com o prolongamento da Rua São Simão, com a seguinte descrição para quem de dentro do lote olha para a Rua de frente: mede 10,00 metros de frente, onde confronta com a Rua 07, 10,00 metros no fundo, onde confronta com o imóvel da Matrícula nº 28, 20,00 metros do lado esquerdo, onde confronta com o lote 03 desta mesma quadra T, 20,00 metros do lado direito, onde confronta com o lote 01 desta mesma quadra T; perfazendo, o lote objeto desta descrição, uma área de 200,00 metros quadrados.\nLocalização do Bem: Rua 07, Jardim das Flores – Serra Azul/SP.\nCompromissário(s): Vinicius Marchetti, brasileiro, técnico em telecomunicações, inscrito no CPF/MF nº 393.764.688-48, RG nº 50.821.7970 SSP/SP, solteiro, residente e domiciliados à Rua Pedro Sirriane, nº 21, Centro – Serra Azul/SP, garantidor fiduciante.",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": null,
+                    "location": "Rua 07, Jardim das Flores – Serra Azul/SP",
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Vara Única de Santa Adélia SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2146/documentos/sl-doc-2146-69332597d79a7-69332597d989c.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": null,
+            "auctioneer": null,
+            "address": null,
+            "website": "jase/rb.suj.psjt.jase//:sptth",
+            "legal_case": {
+                "number": "1350.62.8.1002.93-6051000",
+                "type": null
+            },
+            "parties": {
+                "plaintiff": null,
+                "defendant": null
+            },
+            "auction_dates": [],
+            "contact": [],
+            "properties": []
+        }
+    },
+    {
+        "edital_name": "7ª Vara Federal de Ribeirão Preto SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2123/documentos/sl-doc-2123-68f93a0c3e5c0-68f93a0c3fbad.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "VITOR ELIAS VENTURIN",
+                "court": "7ª Vara Federal de Ribeirão Preto"
+            },
+            "auctioneer": {
+                "name": "MARILAINE BORGES DE PAULA",
+                "registration": "601"
+            },
+            "address": null,
+            "website": "www.confiancaleiloes.com.br",
+            "legal_case": {
+                "number": "0000146-82.2019.4.03.6102",
+                "type": "AÇÃO PENAL - PROCEDIMENTO ORDINÁRIO"
+            },
+            "parties": {
+                "plaintiff": "MINISTERIO PUBLICO FEDERAL - PR/SP",
+                "defendant": "CAIO HENRIQUE AMARAL VIEIRA, DIEGO MONGUINI DA SILVA"
+            },
+            "auction_dates": [
+                "05 de fevereiro às 11hs à 05 de março de 2026 às 11hs"
+            ],
+            "contact": null,
+            "properties": [
+                {
+                    "raw_description": "Processo: 0000146-82.2019.4.03.6102\nAção Penal - Procedimento Ordinário (283)\nExequente: Ministério Público Federal - PR/SP",
+                    "type": "Other",
+                    "valuation": null,
+                    "minimum_bid": null,
+                    "location": null,
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Meghelli Empreendimentos Imobiliarios Ltda",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2143/documentos/sl-doc-2143-69309515d735b-69309515d8afd.pdf",
+        "extracted_data": {
+            "auction_type": "Extrajudicial",
+            "judge": null,
+            "auctioneer": {
+                "name": "Anderson Lopes de Paula",
+                "registration": "1083"
+            },
+            "address": "Av. Brigadeiro Faria Lima, 3729 – 5º Andar, Itaim Bibi",
+            "website": "www.e-leiloeiro.com.br",
+            "legal_case": {
+                "number": null,
+                "type": null
+            },
+            "parties": {
+                "plaintiff": "MEGHELLI EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+                "defendant": null
+            },
+            "auction_dates": [
+                "a partir da publicação deste edital e se estendera até o dia 10 de fevereiro de 2026 às 11h00",
+                "início do dia 10 de fevereiro de 2026 às 11:30horas, e se manterá aberto até o dia 11 de fevereiro de 2026 às 11h00"
+            ],
+            "contact": [
+                "0800-355-8000",
+                "11 99717.6740",
+                "11 4372 9034",
+                "11 98288 1000",
+                "atendimento@e-leiloes.com.br",
+                "andersondepaula@e-leiloeiro.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Lote 01 – Serrana/SP – Terreno área total 200m² - Matrícula nº 7.791 do Oficial de Registro de Imóveis de Serrana/SP: Um terreno urbano, situado nesta cidade e Comarca, de formato regular, constituído pelo Lote 2, da Quadra 4 do loteamento denominado Jardim Santa Luzia, com frente para a Rua 3, medindo 10,00 metros de frente e de fundos, por 20,00 metros da frente aos fundos, de ambos os lados, confrontando do lado direito com o lote nº 1, do lado esquerdo com o lote nº 3 e aos fundos com o lote nº 51, perfazendo a área total de 200,00 metros quadrados. Cadastro Municipal 985771.\nLocalização do Bem: Rua Dirce de Morais Deza, nº 19 – Jardim Santa Luzia – Serrana/SP.\nCompromissário(s): Gesiel Guedes de Souza, brasileiro, porteiro, inscrito no CPF/MF nº\n332.272.648-70, RG nº 41.221.876-8 SSP/SP, divorciado, residente e domiciliados à Rua João\nToniolli, nº 4.006, Jardim Diva Tarla de Carvalho - Ribeirão Preto/SP, garantidor fiduciante.",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": null,
+                    "location": "Rua Dirce de Morais Deza, nº 19 – Jardim Santa Luzia – Serrana/SP",
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "1ª Vara Civil de Leme SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2152/documentos/sl-doc-2152-6945547ead5f7-6945547eb7726.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": null,
+                "court": null
+            },
+            "auctioneer": {
+                "name": null,
+                "registration": null
+            },
+            "address": null,
+            "website": null,
+            "legal_case": {
+                "number": "8130.62.8.5202.30-3562001",
+                "type": null
+            },
+            "parties": {
+                "plaintiff": null,
+                "defendant": null
+            },
+            "auction_dates": [],
+            "contact": [],
+            "properties": []
+        }
+    },
+    {
+        "edital_name": "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2148/documentos/sl-doc-2148-69444db46d6d9-69444db46ee27.pdf",
+        "extracted_data": [
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "ANDERSON LOPES DE PAULA",
+                    "registration": "100"
+                },
+                "address": null,
+                "website": "www.e-leiloes.com.br",
+                "legal_case": {
+                    "number": "02070.010143/2022-45",
+                    "type": null
+                },
+                "parties": {
+                    "plaintiff": null,
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "20 de janeiro de 2026"
+                ],
+                "contact": [
+                    "0800-355-8000",
+                    "atendimento@e-leiloes.com.br"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "leilão de veículos na modalidade online e presencial dos bens especificados no EDITAL",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2137/documentos/sl-doc-2137-6925b6df52901-6925b6df54e5e.pdf",
+        "extracted_data": {
+            "auction_type": "Extrajudicial",
+            "judge": null,
+            "auctioneer": {
+                "name": "MARILAINE BORGES DE PAULA",
+                "registration": "601"
+            },
+            "address": null,
+            "website": "www.confiancaleiloes.com.br",
+            "legal_case": null,
+            "parties": null,
+            "auction_dates": [
+                "17 de dezembro de 2025 a partir das 11h"
+            ],
+            "contact": [
+                "atendimento@e-leiloes.com.br",
+                "0800-355-8000",
+                "(16)98240-8000"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Lt.01: Scania R114GA4X2NZ, Renavam 00894197576. LM: R$31.600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "31.600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.02: SRGuerraAGGR 2004, Renavam 00823264629. LM: R$12.600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "12.600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.03: SRRandonSRCA, Renavam 00931165032. LM: R$17.800,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "17.800,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.04: Sucata-VW/Kombi, Renavam 00430795955. LM: R$125,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "125,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.05: Sucata–VW/GolS, Renavam 00427002044. LM: R$300,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "300,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.06: FiatPalioFire, Renavam 00816434727. LM: R$1.302,40.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.302,40",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.07: Caminhonete Fiat, Renavam 00807684724. LM: R$3.330,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.330,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.08: Sucata–Fiesta Sedan, Renavam 00903495090. LM: R$600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.09: PalioELX Flex, Renavam 00157360580. LM: R$4.600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "4.600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.10: KiaMotorsKiaCerato, Renavam 00468575286. LM: R$9.000,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "9.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.11: ChevroletCruzeLTZHB, Renavam 00537387412. LM: R$12.500,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "12.500,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.12: Sucata–ChevroletCorsaGL, Renavam 00650974441. LM: R$150,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "150,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.13: VW/Crossfox, Renavam 00928739465. LM: R$4.350,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "4.350,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.14: I/AMGCHummer, Renavam 00173115349. LM: R$195.000,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "195.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.15: GM/Meriva, Renavam 00838222234. LM: R$3.000,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.16: VW/Gol, SPEConsórcioCortelSPS.A.\nRenavam 00868408921. LM: R$1.500,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.500,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.17: MontanaConquest, Renavam 00152284273. LM: R$9.600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "9.600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.18: VW/Spacefox, Renavam 00265540534. LM: R$5.145,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "5.145,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.19: UnoMilleWayEcon, Renavam 00345162250. LM: R$4.700,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "4.700,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.20: FiatBravoEssence, Renavam 00335504574. LM: R$6.020,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "6.020,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.21: M.Benz/GLC250, Renavam 01090267573. LM: R$43.713,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "43.713,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.22: YamahaYZFR1, Renavam 00959477381. LM: R$7.040,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "7.040,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.23: FordFiesta Street, Renavam 00789080508. LM: R$2.400,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "2.400,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.24: JagEpaceP250F, Renavam 01229004138. LM: R$58.973,70.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "58.973,70",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.25: I/Porsche, Renavam 01215439307. LM: R$370.362,30.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "370.362,30",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.26: I/Porsche, Renavam 01158947493. LM: R$236.877,90.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "236.877,90",
+                    "location": null,
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2136/documentos/sl-doc-2136-6925b698b585a-6925b698b7172.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": null,
+            "auctioneer": {
+                "name": "MARILAINE BORGES DE PAULA",
+                "registration": "601"
+            },
+            "address": null,
+            "website": "www.confiancaleiloes.com.br",
+            "legal_case": null,
+            "parties": {
+                "plaintiff": "Secretaria Nacional de Políticas Sobre Drogas e Gestão de Ativos – SENAD",
+                "defendant": null
+            },
+            "auction_dates": [
+                "17 de dezembro de 2025 a partir das 10h",
+                "17 dezembro de 2025 a partir das 10h04min"
+            ],
+            "contact": [
+                "atendimento@e-leiloes.com.br",
+                "0800-355-8000",
+                "(16)98240-8000"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Lt.01:VW/VoyageLS,Renavam00361498020.1ºLeilãoR$3.000,00.2ºLeilãoR$2.400,00",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.02: VW/Golf2.0,Renavam00748699198.1ºLeilãoR$8.680,00.2ºLeilãoR$6.944,00",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "8.680,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.03:M.BenzA190,Renavam 00766794210",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": null,
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.04:Montana,Renavam00231405553.1ºLeilãoR$12.320,00.2ºLeilãoR$9.856,00",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "12.320,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.05:AudiQ3, Renavam01109498028.1ºLeilãoR$38.292,40.2ºLeilãoR$30.633,92",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "38.292,40",
+                    "location": null,
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2139/documentos/sl-doc-2139-69122c59b3dbf-69122c59ba64c.pdf",
+        "extracted_data": [
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "MARILAINE BORGES DE PAULA",
+                    "registration": "601"
+                },
+                "address": null,
+                "website": null,
+                "legal_case": null,
+                "parties": null,
+                "auction_dates": [
+                    "24/11/2025",
+                    "25/11/2025"
+                ],
+                "contact": null,
+                "properties": [
+                    {
+                        "raw_description": "Umaresidênciatérrea,coma s a u o a C e o s m tr p u l t e u x r o a, I d n i s s t p it o u n to ib d ili a z s an C d id o a c d e e r s ca do de C 1 a 5 m .3 p 5 u 0 s m Zo ², n p a e L r e te s n te ce - n A te v s . áreade88,25m²,número01daplanta,querecebeuonúmero331daRuaCaribas,construídasobumterreno Jacu-Pêssego,n.º2630,Itaquera,SãoPaulo/SP-UASG153031. constituídodepartedolotenúmero10,daquadra03,doloteamentoVilaPauloBrasil,PraiaGrande/SP,coma",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": "Rua Caribas, Praia Grande/SP",
+                        "depositary": null
+                    },
+                    {
+                        "raw_description": "ImóvelobjetodaMatrículaCNM:119768.2.0147542-77trasladadadaMatrículanº147.542 doRegistrodeImóveisdePraiaGrande–SP.Dispensa-seadescriçãocompletadoIMÓVEL,nostermosdo art.2ºdaLeinº7.433/85edoArt.3ºdoDecretonº93.240/86,estandoomesmodescritoecaracterizadona matrículaanteriormentemencionada.1ºPÚBLICOLEILÃO-VALOR:R$595.879,39(quinhentosenoventa",
+                        "type": "Real Estate",
+                        "valuation": "595.879,39",
+                        "minimum_bid": "547.775,79",
+                        "location": "Praia Grande – SP",
+                        "depositary": null
+                    },
+                    {
+                        "raw_description": "Lt.01-FORDF250TRVTROPICLAS,Renavam00831186771.1ºL:R$84.000,00.2ºL:R$67.200,00.Lt. 02-FIATPALIOFIREFLEX,Renavam00946970580.1ºL:R$5.100,00.2ºL:R$4.080,00.Lt.03-VWTOUAREGV6, Renavam00978863461.1ºL:R$8.700,00.2ºL:R$6.960,00.Lt.04–SUCATA-FIATPALIOFIREECONOMY,Renavam 00154804630.1ºL:R$950,00.2ºL:R$760,00.",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EUCLIDES MARASCHI JUNIOR",
+                    "registration": null
+                },
+                "address": null,
+                "website": "www.hastapublica.com.br",
+                "legal_case": {
+                    "number": "08129.014546/2023-16",
+                    "type": null
+                },
+                "parties": null,
+                "auction_dates": [
+                    "14/11/2025",
+                    "09/12/2025",
+                    "10/12/2025"
+                ],
+                "contact": [
+                    "(16)3461-5950",
+                    "(16)99977-2025",
+                    "juridico@hastapublica.com.br"
+                ],
+                "properties": []
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "616"
+                },
+                "address": "Av.Fagundes Filho, 145, Conjunto 22, Vila Monte Alegre, São Paulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "ANDERSON ZAWITOSKI"
+                },
+                "auction_dates": [
+                    "17/11/2025",
+                    "27/11/2025"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "OAPARTAMENTOnº2.005,situadono20ºpavimentodaTORRE RESIDENCIAL-THEPLACEHOME,integrantedoempreendimentodenominado\"THEPLACEHOMEETHEPLACEOFFICE\",situadonaAvenida PaesdeBarros,nº3.399,eRuaCapitãoPachecoeChaves,nº1.209,no26°Subdistrito-VilaPrudente,comaáreaprivativaedificadade 89,100m²(emáreacoberta,ondeseincluiavagadegaragemnº244M,no1ºpavimento,sujeitaaoauxíliodemanobrista),áreadeuso comumde42,958m²(sendo35,276m²emáreacobertae7,682m²emáreadescoberta),perfazendoaáreatotalde132,058m²,efração idealnosolode0,003837.Oterrenoondeoreferidoempreendimentoseencontraconstruído,encerraumaáreade3.396,53m².Matrícula nº243.937do6ºRegistrodeImóveisdeSãoPaulo/SP.",
+                        "type": "Real Estate",
+                        "valuation": "718.000,00",
+                        "minimum_bid": "418.712,68",
+                        "location": "Avenida Paes de Barros, nº 3.399, e Rua Capitão Pacheco e Chaves, nº 1.209, Vila Prudente, São Paulo/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "616"
+                },
+                "address": "Av.Fagundes Filho, 145, Conjunto 22, Vila Monte Alegre, São Paulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "ADMIR PEREIRA DOS SANTOS e LUANA TORRES DOS SANTOS"
+                },
+                "auction_dates": [
+                    "17/11/2025",
+                    "27/11/2025"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "UMTERRENOconstituídopelolote5,daquadra10,doJardim Petrópolis,comaáreade372,00m²,perímetrourbanodacidadeecomarcadeRibeirãoPires/SP,medindo12,00mdefrenteParaaRua Nove(atualRuaParaguaçu),por32,50m,dafrenteaosfundos,doladodireitodequemdoterrenoolhaparaaRua,ondeconfrontacomo lote6,e29,55mtambémdafrenteaosfundos,doladoesquerdo,ondeconfrontacomolote4,tendonosfundosalargurade12,40m,onde confrontacomoslotesnºs21e20,todosdamesmaquadra.NoterrenofoiconstruídaUMACASAquerecebeuonº117daRuaParaguaçu.",
+                        "type": "Real Estate",
+                        "valuation": "484.610,00",
+                        "minimum_bid": "336.704,90",
+                        "location": "Ribeirão Pires/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "616"
+                },
+                "address": "Av.Fagundes Filho, 145, Conjunto 22, Vila Monte Alegre, São Paulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "EDER LEISNERES DE CARVALHO e VANESSA GOMES MESCARI DE CARVALHO"
+                },
+                "auction_dates": [
+                    "17/11/2025",
+                    "27/11/2025"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "APARTAMENTOnº102,doBloco54,daEstradadosCaboclos,nº1.185,CampoGrande,comáreaprivativade53,9861m², áreacomumde0,6253m²,áreatotalde54,6114m²,quecorrespondeafraçãoidealde0,003548dorespectivoterrenodesignadopor Lote02doPAL47.086.",
+                        "type": "Real Estate",
+                        "valuation": "153.073,43",
+                        "minimum_bid": "100.639,28",
+                        "location": "Estrada dos Caboclos, nº 1.185, Campo Grande, Riode Janeiro/RJ",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "MARILAINE BORGES DE PAULA",
+                    "registration": "601"
+                },
+                "address": null,
+                "website": null,
+                "legal_case": null,
+                "parties": null,
+                "auction_dates": [
+                    "03dezembrode2025"
+                ],
+                "contact": null,
+                "properties": [
+                    {
+                        "raw_description": "Lt.01-CHEVROLETCORSAST2003,Renavam00788291475.LM:R$1.250,00.Lt.02-SRNOMA SR2E17T1CL2009,Renavam00116615753.LM:R$14.400,00.Lt.03-SRNOMASR2E17T2CL2009,Renavam 00117201871. LM: R$ 13.700,00. Lt. 04 – Sucata - CHEVROLET KADETT GL 1995, Renavam 00624402690. LM:R$500,00.Lt.05–Sucata-MERCEDES-BENZL13181988,Renavam00386703450.LM:R$1.850,00.Lt.06-FIAT PALIOCITYMATIC2000,Renavam00734854358.LM:R$800,00.Lt.07–Sucata-MERCEDES-BENZA1601999,Renavam 00725339900.LM:R$600,00.Lt.08-AUDIA31.82001,Renavam00759590206.LM:R$2.700,00.Lt.09-FIATPALIO WKADVENTURE2003,Renavam00796749370.LM:R$1.500,00.Lt.10-HONDACG150TITANESD2005,Renavam 00852585438.LM:R$1.245,00.Lt.11-FORDECOSPORTXLT1.6FLEX2007,Renavam00916733351.LM:R$4.230,00. Lt.12-CITROENCITROENC420VTR2007,Renavam00901416606.LM:R$580,00.Lt.13-HONDAPOP1002007, Renavam00923517065.LM:R$580,00.Lt.14-HONDACG125FAN2008,Renavam00979756146.LM:R$1.095,00.Lt. 15-VOLKSWAGENGOL1.02010,Renavam00206054971.LM:R$4.200,00.Lt.16-RENAULTSANDEROEXP1016V2011, Renavam00251658368.LM:R$4.840,00.Lt.17-IPORSCHE2021,Renavam01259781744.LM:R$222.910,20.Lt.18- FORDECOSPORTFSLAT1.6B,Renavam01076865353.LM:R$11.100,00.Lt.19-LRDISCD300LE/I2023,Renavam 01346827718.LM:R$147.712,50.Lt.20-RENAULTLOGANEXP1016V2011,Renavam00334782821.LM:R$11.750,00. Lt.21-JTA-SUZUKIVSTROM1000A,Renavam01114637219.LM:R$8.940,00.Lt.22–Sucata-FORDESCORT1.8GL 1993,Renavam00610277138.LM:R$400,00.Lt.23-FIATPALIOEX2001,00747562717.LM:R$1.100,00.Lt.24– Sucata-VOLKSWAGENGOL1.6CITY2003,Chassi:9BWCB05X13T122100.LM:R$660,00.Lt.25–Sucata-CHEVROLET ASTRASEDANCONFORT200,Renavam00851882200.LM:R$225,00.Lt.26-CHEVROLETVECTRAGLS1998,Renavam 00694813745.LM:R$1.700,00.Lt.27-SCANIAR124GA4X2NZ4002002,Renavam00787947105.LM:R$26.000,00.",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2138/documentos/sl-doc-2138-691223ddde9b0-691223dde32d5.pdf",
+        "extracted_data": [
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "MARILAINE BORGES DE PAULA",
+                    "registration": "601"
+                },
+                "address": null,
+                "website": null,
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "Secretaria Nacional de Políticas Sobre Drogas e Gestão de Ativos – SENAD",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "24/11/2025,às10:10hs",
+                    "25/11/2025,às10:10hs"
+                ],
+                "contact": null,
+                "properties": [
+                    {
+                        "raw_description": "Umaresidênciatérrea,coma áreade88,25m²,número01daplanta,querecebeuonúmero331daRuaCaribas,construídasobumterreno constituídodepartedolotenúmero10,daquadra03,doloteamentoVilaPauloBrasil,PraiaGrande/SP,coma áreade117,50m².ImóvelobjetodaMatrículaCNM:119768.2.0147542-77trasladadadaMatrículanº147.542 doRegistrodeImóveisdePraiaGrande–SP.",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": "Rua Caribas, Praia Grande/SP",
+                        "depositary": null
+                    },
+                    {
+                        "raw_description": "Lt.01-FORDF250TRVTROPICLAS,Renavam00831186771.1ºL:R$84.000,00.2ºL:R$67.200,00.Lt. 02-FIATPALIOFIREFLEX,Renavam00946970580.1ºL:R$5.100,00.2ºL:R$4.080,00.Lt.03-VWTOUAREGV6, Renavam00978863461.1ºL:R$8.700,00.2ºL:R$6.960,00.Lt.04–SUCATA-FIATPALIOFIREECONOMY,Renavam 00154804630.1ºL:R$950,00.2ºL:R$760,00.",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": "84.000,00",
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Unknown",
+                "judge": null,
+                "auctioneer": {
+                    "name": "FERNANDA A.B. MELLO HOMEM DE MELLO",
+                    "registration": "JUCESP nº 301409340-080"
+                },
+                "address": null,
+                "website": "www.confiancaleiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "BANCO INTER / SA",
+                    "defendant": "ANDERSON ZAWITOSKI"
+                },
+                "auction_dates": [
+                    "03dedezembroapartirdas11h",
+                    "03dezembroapartirdas11h04min"
+                ],
+                "contact": null,
+                "properties": []
+            },
+            {
+                "auction_type": "Unknown",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EUCLIDES MARASCHI JUNIOR",
+                    "registration": null
+                },
+                "address": null,
+                "website": "www.hastapublica.com.br",
+                "legal_case": {
+                    "number": "08129.014546/2023-16",
+                    "type": null
+                },
+                "parties": {
+                    "plaintiff": "Secretaria Nacional de Políticas Sobre Drogas e Gestão de Ativos–SENAD",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "14/11/2025",
+                    "09/12/2025",
+                    "10/12/2025"
+                ],
+                "contact": [
+                    "(16)3461-5950",
+                    "(16)99977-2025",
+                    "juridico@hastapublica.com.br"
+                ],
+                "properties": []
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "JUCESPn°616"
+                },
+                "address": "Av.FagundesFilho,145,Conjunto22,VilaMonteAlegre,SãoPaulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "VENDA E DSOARES, PAULOCESAR/STROPA, A"
+                },
+                "auction_dates": [
+                    "17/11/2025às14h30",
+                    "27/11/2025às14h30"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "OAPARTAMENTOnº2.005,situadono20ºpavimentodaTORRE RESIDENCIAL-THEPLACEHOME,integrantedoempreendimentodenominado\"THEPLACEHOMEETHEPLACEOFFICE\",situadonaAvenida PaesdeBarros,nº3.399,eRuaCapitãoPachecoeChaves,nº1.209,no26°Subdistrito-VilaPrudente,comaáreaprivativaedificadade 89,100m²(emáreacoberta,ondeseincluiavagadegaragemnº244M,no1ºpavimento,sujeitaaoauxíliodemanobrista),áreadeuso comumde42,958m²(sendo35,276m²emáreacobertae7,682m²emáreadescoberta),perfazendoaáreatotalde132,058m²,efração idealnosolode0,003837.Oterrenoondeoreferidoempreendimentoseencontraconstruído,encerraumaáreade3.396,53m².Matrícula nº243.937do6ºRegistrodeImóveisdeSãoPaulo/SP.Obs:Ocupado.Desocupaçãoporcontadoadquirente,nostermosdoart.30dalei 9.514/97.",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": "718.000,00",
+                        "location": "Avenida Paes de Barros, nº3.399, e Rua Capitão Pacheco e Chaves, nº1.209, Vila Prudente, São Paulo/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "JUCESPn°616"
+                },
+                "address": "Av.FagundesFilho,145,Conjunto22,VilaMonteAlegre,SãoPaulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "ADMIR PEREIRA DOS SANTOS"
+                },
+                "auction_dates": [
+                    "17/11/2025às14h30",
+                    "27/11/2025às14h30"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "UMTERRENOconstituídopelolote5,daquadra10,doJardim Petrópolis,comaáreade372,00m²,perímetrourbanodacidadeecomarcadeRibeirãoPires/SP,medindo12,00mdefrenteParaaRua Nove(atualRuaParaguaçu),por32,50m,dafrenteaosfundos,doladodireitodequemdoterrenoolhaparaaRua,ondeconfrontacomo lote6,e29,55mtambémdafrenteaosfundos,doladoesquerdo,ondeconfrontacomolote4,tendonosfundosalargurade12,40m,onde confrontacomoslotesnºs21e20,todosdamesmaquadra.NoterrenofoiconstruídaUMACASAquerecebeuonº117daRuaParaguaçu. Matrículanº1.155doCartóriodeRegistrodeImóveisdeRibeirãoPires/SP.Obs:Ocupado.Desocupaçãoporcontadoadquirente,nostermos doart.30dalei9.514/97.",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": "484.610,00",
+                        "location": "Rua Paraguaçu, nº117, Jardim Petrópolis, Ribeirão Pires/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "EDUARDO CONSENTINO",
+                    "registration": "JUCESPn°616"
+                },
+                "address": "Av.FagundesFilho,145,Conjunto22,VilaMonteAlegre,SãoPaulo/SP",
+                "website": "www.biasileiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "ITAÚ UNIBANCO S/A",
+                    "defendant": "EDER LEISNERES DE CARVALHO"
+                },
+                "auction_dates": [
+                    "17/11/2025às14h30",
+                    "27/11/2025às14h30"
+                ],
+                "contact": [
+                    "(11)4083-2575"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "APARTAMENTOnº102,doBloco54,daEstradadosCaboclos,nº1.185,CampoGrande,comáreaprivativade53,9861m², áreacomumde0,6253m²,áreatotalde54,6114m²,quecorrespondeafraçãoidealde0,003548dorespectivoterrenodesignadopor Lote02doPAL47.086.Matrículanº23.431do12ºRegistrodeImóveisdoRiodeJaneiro/RJ.Obs:Ocupado.Desocupaçãoporcontado adquirente,nostermosdoart.30dalei9.514/97.",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": "153.073,43",
+                        "location": "Estrada dos Caboclos, nº1.185, Campo Grande, Rio de Janeiro/RJ",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Unknown",
+                "judge": null,
+                "auctioneer": {
+                    "name": "MARILAINE BORGES DE PAULA",
+                    "registration": "601"
+                },
+                "address": null,
+                "website": null,
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "Secretaria Nacional de Políticas Sobre Drogas e Gestão de Ativos–SENAD",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "03dezembrode2025"
+                ],
+                "contact": null,
+                "properties": [
+                    {
+                        "raw_description": "Lt.01-CHEVROLETCORSAST2003,Renavam00788291475.LM:R$1.250,00.Lt.02-SRNOMA SR2E17T1CL2009,Renavam00116615753.LM:R$14.400,00.Lt.03-SRNOMASR2E17T2CL2009,Renavam 00117201871. LM: R$ 13.700,00. Lt. 04 – Sucata - CHEVROLET KADETT GL 1995, Renavam 00624402690. LM:R$500,00.Lt.05–Sucata-MERCEDES-BENZL13181988,Renavam00386703450.LM:R$1.850,00.Lt.06-FIAT PALIOCITYMATIC2000,Renavam00734854358.LM:R$800,00.Lt.07–Sucata-MERCEDES-BENZA1601999,Renavam 00725339900.LM:R$600,00.Lt.08-AUDIA31.82001,Renavam00759590206.LM:R$2.700,00.Lt.09-FIATPALIO WKADVENTURE2003,Renavam00796749370.LM:R$1.500,00.Lt.10-HONDACG150TITANESD2005,Renavam 00852585438.LM:R$1.245,00.Lt.11-FORDECOSPORTXLT1.6FLEX2007,Renavam00916733351.LM:R$4.230,00. Lt.12-CITROENCITROENC420VTR2007,Renavam00901416606.LM:R$580,00.Lt.13-HONDAPOP1002007, Renavam00923517065.LM:R$580,00.Lt.14-HONDACG125FAN2008,Renavam00979756146.LM:R$1.095,00.Lt. 15-VOLKSWAGENGOL1.02010,Renavam00206054971.LM:R$4.200,00.Lt.16-RENAULTSANDEROEXP1016V2011, Renavam00251658368.LM:R$4.840,00.Lt.17-IPORSCHE2021,Renavam01259781744.LM:R$222.910,20.Lt.18- FORDECOSPORTFSLAT1.6B,Renavam01076865353.LM:R$11.100,00.Lt.19-LRDISCD300LE/I2023,Renavam 01346827718.LM:R$147.712,50.Lt.20-RENAULTLOGANEXP1016V2011,Renavam00334782821.LM:R$11.750,00. Lt.21-JTA-SUZUKIVSTROM1000A,Renavam01114637219.LM:R$8.940,00.Lt.22–Sucata-FORDESCORT1.8GL 1993,Renavam00610277138.LM:R$400,00.Lt.23-FIATPALIOEX2001,00747562717.LM:R$1.100,00.Lt.24– Sucata-VOLKSWAGENGOL1.6CITY2003,Chassi:9BWCB05X13T122100.LM:R$660,00.Lt.25–Sucata-CHEVROLET ASTRASEDANCONFORT200,Renavam00851882200.LM:R$225,00.Lt.26-CHEVROLETVECTRAGLS1998,Renavam 00694813745.LM:R$1.700,00.Lt.27-SCANIAR124GA4X2NZ4002002,Renavam00787947105.LM:R$26.000,00.",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": "1.250,00",
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2132/documentos/sl-doc-2132-6911efe29face-6911efe2a4889.pdf",
+        "extracted_data": [
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "ANDERSON LOPES DE PAULA",
+                    "registration": "1083"
+                },
+                "address": null,
+                "website": "www.e-leiloeiro.com.br",
+                "legal_case": null,
+                "parties": null,
+                "auction_dates": [
+                    "03 de dezembro de 2025 a partir das 10h",
+                    "03 dezembro de 2025 a partir das 10h04min"
+                ],
+                "contact": [
+                    "atendimento@e-leiloes.com.br",
+                    "0800-355-8000",
+                    "(16)98240-8000"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "Aeronave|Avião PP-ZJS, ano 2011, modelo RV-10, SériePIA-10-002, total de assentos 04, horastotais 1428,3",
+                        "type": "Other",
+                        "valuation": null,
+                        "minimum_bid": "R$1.010.000,00",
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "edital_name": "Energisa Rondonia - Distribuidora de Energia S/A",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2128/documentos/sl-doc-2128-68fbe17671b78-68fbe17673435.pdf",
+        "extracted_data": {
+            "auction_type": "Extrajudicial",
+            "judge": null,
+            "auctioneer": {
+                "name": "ANDERSON LOPES DE PAULA, MARILAINE BORGES DE PAULA",
+                "registration": "1083, 601"
+            },
+            "address": null,
+            "website": "www.e-leiloes.com.br",
+            "legal_case": {
+                "number": null,
+                "type": null
+            },
+            "parties": {
+                "plaintiff": "ENERGISA RONDONIA – DISTRIBUIDORA DE ENERGIA S/A, ENERGISA MATO GROSSO DO SUL – DISTRIBUIDORA DE ENERGIA S/A, ENERGISA PARAÍBA – DISTRIBUIDORA DE ENERGIA S/A, ENERGISA SOLUÇÕES S/A",
+                "defendant": null
+            },
+            "auction_dates": [
+                "27 de novembro de 2025"
+            ],
+            "contact": [
+                "0800.355.8000",
+                "(11) 3040.6420",
+                "atendimento@e-leiloes.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "LOTE 01 – CEREJEIRA/RO – TERRENO URBANO ÁREA 424,30 M² - SEM BENFEITORIA - MATRÍCULA Nº 504 – CRI DE CEREJEIRAS EM NOME DA CENTRAIS ELETRICAS DE RODONIA S.A. – CERON\nImóvel: Lote urbano nº 15 da Quadra B-22, Setor “B”, localizado no Município de Cerejeiras, Estado de Rondônia, com a área de 424,30m², possuindo as seguintes medidas e confrontações: medindo de frente 14,12m, aos fundos 14,12m, a sua direita 30,05m, e a sua esquerda 30,05m, dista da esquina mais próxima 28,00m lado ímpar.\nLocalização: Avenida Castelo Branco – Setor B – QB 22 – LT 15 – Cerejeiras/RO.\nProposta inicial: R$ 113.489,48 (Cento e treze mil, quatrocentos e oitenta e nove reais e quarenta e oito centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "113.489,48",
+                    "location": "Avenida Castelo Branco – Setor B – QB 22 – LT 15 – Cerejeiras/RO",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 02 – CEREJEIRA/RO – TERRENO URBANO ÁREA 16.766,91 M² - SEM BENFEITORIA - MATRÍCULA Nº 506 – CRI DE CEREJEIRAS EM NOME DA ENERGISA RONDÔNIA – DISTRIBUIDORA DE ENERGIA S.A.\nImóvel: A Quadra C-1, Setor “C”, localizado no Município de Cerejeiras, Estado de Rondônia, com a área de 16.766,91m², possuindo as seguintes medidas e confrontações: ao Norte com a Av. Castelo Branco, com 139,93m; ao Sul com a Rua Canadá, com 139,88m; a Leste com a Rua Paraná, com 119,93m; a Oeste com a Rua Piauí, com 119,76m.\nLocalização: Avenida Castelo Branco – Setor C – QC 1 – LT Único – Cerejeiras/RO.\nProposta inicial: R$ 1.695.965,32 (Um milhão, seiscentos e noventa e cinco mil, novecentos e sessenta e cinco reais e trinta e dois centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "1.695.965,32",
+                    "location": "Avenida Castelo Branco – Setor C – QC 1 – LT Único – Cerejeiras/RO",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 03 – CEREJEIRA/RO – TERRENO URBANO ÁREA 420,70 M² - SEM BENFEITORIA - MATRÍCULA Nº 507- CRI DE CEREJEIRAS EM NOME DA CENTRAIS ELETRICAS DE RODONIA S.A. – CERON\nImóvel: Lote urbano nº 16, da quadra B-22, do Setor “B”, localizado no Município de Cerejeiras, Estado de Rondônia, com a área de 420,70m², possuindo as seguintes medidas e confrontações: medindo de frente 14,00m, aos fundos 14,00m, a sua direita 30,05m, e a sua 30,5m, dista de esquina mais próxima 42,00m. Lado: Par, com as seguintes confrontações: ao Norte: com o lote 05; ao Sul: com a Av. Castelo Branco: a Leste: com o lote 15; a Oeste: com o lote 17.\nLocalização: Avenida Castelo Branco – Setor B – QB 22 – LT 16 – Cerejeiras/RO.\nProposta inicial: R$ 112.706,09 (Cento de doze mil, setecentos e seis reais e nove centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "112.706,09",
+                    "location": "Avenida Castelo Branco – Setor B – QB 22 – LT 16 – Cerejeiras/RO",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 04 – JI-PARANÁ/RO – IMÓVEL COMERCIAL ÁREA 909,00 M² - MATRÍCULA Nº 8.354 – CRI DE JI-PARANÁ EM NOME DA CENTRAIS ELETRICAS DE RODONIA S.A. – CERON.\nImóvel: Lote de terra urbano nº 10 da quadra 16, setor 02, 1º Distrito, situado na Rua 02 de Abril com a Rua Aluízio Ferreira, da Planta Geral desta cidade de Ji Paraná/RO, com a área de 909,00m². Benfeitorias: Prédio comercial padrão de acabamento considerado médio em suas áreas comuns e com todas as instalações funcionando perfeitamente, estrutura é feita em concreto armado convencional, vedação em blocos cerâmicos, cobertura com telha de fibrocimento.\nLocalização: Rua Aluízio Ferreira, nº 290 – Centro – Ji-Paraná/RO.\nProposta inicial: R$ 2.690.512,36 (Dois milhões, seiscentos e noventa mil, quinhentos e doze reais e trinta e seis centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "2.690.512,36",
+                    "location": "Rua Aluízio Ferreira, nº 290 – Centro – Ji-Paraná/RO",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 05 – PORTO VELHO/RO – TERRENO URBANO ÁREA 4.922,38 M² - SEM BENFEITORIA, MATRÍCULA Nº 7.089 EM NOME DA CENTRAIS ENERGISA RONDÔNIA – DISTRIBUIDORA DE ENERGIA S.A.\nImóvel: Lote de terra urbano n° 64, quadra 104, Setor 003. Cadastro 003-104-064, área 4.922,38m². Situado na cidade de Porto velho-RO. Limitando-se: Ao Norte, com a Rua Rio de Janeiro; Ao Sul, com área verde; A leste, com os lotes 109, 118, 129, 156, 179, 189, 232 e Rua Esron de Menezes; A oeste, com o lote 29 e área verde. Medindo, o lote, 35,00m de frente; 29,70m + 27,10m de fundos; 57,90m + 33,00m + 14,00 + 30,90m + 27,60m do lado direito; 30,70m + 4,40m + 21,80m + 9,90m + 19,40m do lado esquerdo.\nLocalização: Avenida Rio de Janeiro, nº 1.420 – Areal – Porto Velho/RO.\nProposta inicial: R$ 2.433.741,78 (Dois milhões, quatrocentos e trinta e três mil, setecentos e quarenta e um reais e setenta e oito centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "2.433.741,78",
+                    "location": "Avenida Rio de Janeiro, nº 1.420 – Areal – Porto Velho/RO",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 06 – CORUMBÁ/MS – TERRENO URBANO ÁREA 128,01M² - SEM BENFEITORIA, MATRÍCULA Nº 14.736 EM NOME DA EMPRESA ENERGÉTICA DE MATO GROSSO DO SUL S/A – ENERSUL.\nImóvel: Lote de terreno sob número 91 da Rua Delamare, nesta cidade, medindo 5,10 metros de frente, por 25,10 metros de fundos, igual a 128,01m², limitando-se: ao Norte, com frente para a Rua Delmare, ao Sul, com parte do mesmo lote número 91 da Rua Delmare, ao Sul, com parte do mesmo lote número 91 da Rua Delmare, correspondendo a um terreno vago, sem edificações ou benfeitorias. Transcirção nº 20070.\nObs.: Imóvel tombado. Possibilidade de construção desde que seja respeitada a altura do prédio anterior, ou seja, altura da fachada que temos registrado na documentação do imóvel. Sendo que a fachada não pode ser demolida, neccessitando que seja mantida sua característica arquitetônica.\nLocalização: Rua Delamare, nº 1.257 - Lote 91 – Centro – Corumbá/MS.\nProposta inicial: R$ 136.338,33 (Cento e trinta e seis mil, trezentos e trinta e oito reais e trinta e três centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "136.338,33",
+                    "location": "Rua Delamare, nº 1.257 - Lote 91 – Centro – Corumbá/MS",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 07 – CAJAZEIRAS/PB – TERRENO URBANO ÁREA 570,00M² - ÁREA CONSTRUÍDA DE 310,00M², MATRÍCULA Nº 12.744 EM NOME DA EMPRESA ENERGISA PARAÍBA – DISTRIBUIDORA DE ENERGIA S/A.\nImóvel: Prédio de Área Comercial, situado na cidade de Cajazeiras – PB, com área total de um Terreno com 570,00m² (Dimensão de 17,00m x 33,50m), e tendo como área construída de 310,00m², com frente para a Avenida Comandante Vital Rolim, e Fundo Com a Rua Valdenez Pereira de Souza, divididos com o terraço, recepção, com acesso hall, e dois WC’s (feminino e masculino), sala de administração, copa, sala de reunião, sala de depósito, com acesso a mais dois WC’s sociais (feminino e masculino) e duas garagens amplas e cobertas com acesso aos fundos do prédio e vagas de estacionamentos na parte da frente do prédio.\nObs. Base operacional e agência da Energisa, o imóvel será entregue após 18 meses.\nLocalização: Avenida Comandante Vital Rolim, Centro – Cajazeiras/PB.\nProposta inicial: R$ 1.554.000,00 (Um milhão, quinhentos e cinquenta e quatro mil reais)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "1.554.000,00",
+                    "location": "Avenida Comandante Vital Rolim, Centro – Cajazeiras/PB",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 08 – ESPERANÇA/PB – TERRENO URBANO ÁREA 661,20M² - ÁREA CONSTRUÍDA DE 237,20M², MATRÍCULA Nº 5.478 EM NOME DA EMPRESA ENERGISA PARAÍBA – DISTRIBUIDORA DE ENERGIA S/A.\nImóvel: Prédio Comercial, s/n, localizado na Rua Tomás Rodrigues, no bairro do centro, na cidade de Esperança, deste Estado da Paraíba, circunscrição imobiliária da mesma comarca, com escritório, garagem e Prédio anexo, construído em alvenaria de tijolos e coberta de lajes e telhas, com uma área construída de 237,20m², ou seja 130,00m² escritório, 40,00m², prédio anexo e 67,20m², garagem com instalação d’ água, luz e sanitário, esquadria de alumínio, piso paviflex, caixa d’ água, edificada em terreno irregular com uma área de 661,20m², ou seja 22,80m de largura na frente e nos fundos por 29,00m de ambos os lados; limitando-se na frente com a Rua de sua situação, pelo lado esquerdo, lado direito e nos fundos com imóveis de terceiros.\nObs. Base operacional e agência da Energisa, o imóvel será entregue após 18 meses.\nLocalização: Rua Tomás Rodrigues, Centro – Esperança/PB.\nProposta inicial: R$ 882.057,48 (Oitocentos e oitenta e dois mil, cinquenta e sete reais e quarenta e oito centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "882.057,48",
+                    "location": "Rua Tomás Rodrigues, Centro – Esperança/PB",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 09 – LUCENA/PB – TERRENO URBANO ÁREA 131,40M² - COM BENFEITORIA, MATRÍCULA Nº 16.249 EM NOME DA EMPRESA ENERGISA PARAÍBA – DISTRIBUIDORA DE ENERGIA S/A.\nImóvel: Uma casa residencial localizada na zona urbana do município de Lucena/PB. A residência possui terraço, dois quartos, cozinha, banheiro interno e área de serviço. A casa está construída em terreno próprio, com as seguintes medidas: 7,30 metros de frente e fundos e 18,00 metros de comprimento em ambos os lados, totalizando uma área de aproximadamente 131,40m².\nConfrontando de um lado, com uma casa pertencente a Luís Vale; do outro lado, confronta-se com um terreno vazio de propriedade de Moacir de Tal, ainda sem registro anterior.\nObs.: Imóvel desocupado.\nLocalização: Rua Américo Falcão, nº 747, Centro - Lucena/PB.\nProposta inicial: R$ 184.461,96 (Cento e oitenta e quatro mil, quatrocentos e sessenta e um reais e noventa e seis centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "184.461,96",
+                    "location": "Rua Américo Falcão, nº 747, Centro - Lucena/PB",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 10 – RIO TINTO/PB – TERRENO URBANO ÁREA 7.930,00M² - ÁREA CONSTRUÍDA DE 21,78M², MATRÍCULA Nº 1.487 EM NOME DA EMPRESA ENERGISA PARAÍBA – DISTRIBUIDORA DE ENERGIA S/A.\nImóvel: Imóvel tem uma área de 7.930m², situado na zona urbana, comarca de Rio Tinto, estado da Paraíba, e próxima às margens do rio mamanguape, de forma irregular já demarcada, cercada e figurando na planta com todos os detalhes, contendo como benfeitorias: uma casa de operação em alvenaria, de tijolos e Coberta de telhas francesas e piso de cimento, com instalações elétricas e área construída de 21,78m²;\nLocalização: Zona urbana do município Rio Tinto/PB, às margens do Rio Mamanguape.\nProposta inicial: R$ 5.394.320,40 (Cinco milhões, trezentos e noventa e quatro mil, trezentos e vinte reais e quarenta centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "5.394.320,40",
+                    "location": "Zona urbana do município Rio Tinto/PB, às margens do Rio Mamanguape",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 11– GUARANI/MG – TERRENO RURAL ÁREA 04.57,96 HECTARES, MATRÍCULA Nº 10.815 EM NOME DA EMPRESA ENERGISA SOLUÇÕES S/A.\nImóvel: Barra do Paraopeba - Uma área de terras de 04.57.96ha (quatro hectares cinquenta sete ares noventa e seis ares).\nLocalização: Barra do Paraopeba – Zona Rural – Guarani/MG.\nProposta inicial: R$ 288.476,93 (Duzentos e oitenta e oito mil, quatrocentos e setenta e seis reais e noventa e três centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "288.476,93",
+                    "location": "Barra do Paraopeba – Zona Rural – Guarani/MG",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 12 – PIRAÚBA/MG – TERRENO RURAL ÁREA 02.28,26 HECTARES, MATRÍCULA Nº 10.838 EM NOME DA EMPRESA ENERGISA SOLUÇÕES S/A.\nImóvel: Sítio São Sebastião - Área 1 com área de 02.28,26 ha (dois hectares vinte e oito ares e vinte e seis centiares), sem benfeitorias.\nLocalização: Sítio São Sebastião – Zona Rural - Piraúba/MG.\nProposta inicial: R$ 239.569,40 (Duzentos e trinta e nove mil, quinhentos e sessenta e nove reais e quarenta centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "239.569,40",
+                    "location": "Sítio São Sebastião – Zona Rural - Piraúba/MG",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 13 – ASTOLFO DUTRA/MG – TERRENO RURAL ÁREA 7.89,40 HECTARES,\nMATRÍCULA Nº 22.276 EM NOME DA EMPRESA ENERGISA SOLUÇÕES S/A.\nImóvel: Sítio Retiro da Barra, uma área de 7ha.89ª.40ca., partindo do ponto 1 de coordenadas\nUTM; N=7.642.528,725 e E=716.605.128, fixado na cerca de divisa e na poligonal da área de\ninteresse, deste segue pela poligonal da área de interesse até o ponto 2, confrontando com terras\nde mesmas propriedades com azimutes variados e com uma distância de 163.863m; deste segue\npoligonal da área de interesse da CAT-LEO Energisa S/A.\nLocalização: Sítio Retiro da Barra – Astolfo Dutra/MG\nProposta inicial: R$ 420.969,37 (Quatrocentos e vinte mil, novecentos e sessenta e nove reais e\ntrinta e sete centavos)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "420.969,37",
+                    "location": "Sítio Retiro da Barra – Astolfo Dutra/MG",
+                    "depositary": null
+                },
+                {
+                    "raw_description": "LOTE 14 – ASTOLFO DUTRA/MG – TERRENO RURAL ÁREA 7.74.40 HECTARES,\nMATRÍCULA Nº 30.625 EM NOME DA EMPRESA ENERGISA SOLUÇÕES S/A.\nImóvel: Colônia Santa Maria – Distrito de Astolfo Dutra: Uma área de terras medindo\n7ha.74ª.40ca.,\nLocalização: Colônia Santa Maria – Astolfo Dutra/MG.\nProposta inicial: R$ 621.000,00 (Seiscentos e vinte e um mil reais)",
+                    "type": "Real Estate",
+                    "valuation": null,
+                    "minimum_bid": "621.000,00",
+                    "location": "Colônia Santa Maria – Astolfo Dutra/MG",
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Juizado Especial Cível e Criminal de Estrela D`Oeste SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2102/documentos/sl-doc-2102-6900f8123c235-6900f812401a5.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "Carolina Gonzalez Azevedo Tassinari",
+                "court": "Juizado Especial Cível e Criminal da Comarca de Estrela D’Oeste/SP"
+            },
+            "auctioneer": {
+                "name": "ANDERSON LOPES DE PAULA",
+                "registration": "1.083"
+            },
+            "address": "Av. Brigadeiro Faria Lima, 3729 5º andar – Itaim Bibi – CEP 04538-905 e escritório em Ribeirão Preto SP a Av. Braz Olaia Acosta, 727 5º andar – Jd. Califórnia – CEP 14026-040",
+            "website": "https://www.e-leiloeiro.com.br/",
+            "legal_case": {
+                "number": "1000537-35.2025.8.26.0185",
+                "type": "Execução de Título Extrajudicial – Confissão/Composição de Dívida"
+            },
+            "parties": {
+                "plaintiff": "Franciele Cristina Alonso Passetti 37678975805 – Me",
+                "defendant": "Tiago Rafael de Lima"
+            },
+            "auction_dates": [
+                "26 de novembro de 2025 às 14h30min"
+            ],
+            "contact": [
+                "(16) 3515-8000",
+                "(16) 98240-8000",
+                "atendimento@e-leiloes.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Veículo da marca Ford, modelo EcoSport XLS 2.0, à gasolina, cor prata, cinco portas, ano de fabricação/modelo 2007/2008, placa DTP1G97 de Fernandópolis/SP, Renavam 00952450240, em bom estado de uso e conservação.",
+                    "type": "Vehicle",
+                    "valuation": "R$ 31.699,00",
+                    "minimum_bid": "R$ 19.019,40",
+                    "location": "Rua Brotas, nº 805 – CDHU Ângelo Parminondi – Estrela D’Oeste/SP",
+                    "depositary": "Tiago Rafael de Lima"
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "1ª Vara Cível de Estrela D' Oeste SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2118/documentos/sl-doc-2118-690100abd3dcc-690100abd7e3f.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "Carolina Gonzalez Azevedo Tassinari",
+                "court": "1ª VARA CÍVEL DA COMARCA DE ESTRELA D’ OESTE/SP"
+            },
+            "auctioneer": {
+                "name": "ANDERSON LOPES DE PAULA",
+                "registration": "1.083"
+            },
+            "address": "Av. Brigadeiro Faria Lima, 3729 5º andar – Itaim Bibi – CEP 04538-905 e escritório em Ribeirão Preto SP a Av. Braz Olaia Acosta, 727 5º andar – Jd. Califórnia – CEP 14026-040",
+            "website": "https://www.e-leiloeiro.com.br/",
+            "legal_case": {
+                "number": "1001104-03.2024.8.26.0185",
+                "type": "Execução de Título Extrajudicial – Nota Promissória"
+            },
+            "parties": {
+                "plaintiff": "Marcos Aparecido Muniz Hortifrutigranjeiro",
+                "defendant": "Luiz Fernando Lanzoni"
+            },
+            "auction_dates": [
+                "até o dia 26 de novembro de 2025 às 14h30min"
+            ],
+            "contact": [
+                "(16) 3515-8000",
+                "(16) 98240-8000",
+                "atendimento@e-leiloes.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Parte ideal de 12,5% (doze e meio por cento) do imóvel objeto da matrícula nº 17.481 do SRI local, assim descrito \"um imóvel rural com área de doze hectares e nove centiares de terras denominado lote quinze (15) gleba dois (2), encravado na Fazenda Santa Rita, situado no distrito e município de Turmalina, da comarca de Estrela d’ Oeste, denominado Sítio Lanzoni.",
+                    "type": "Real Estate",
+                    "valuation": "R$ 109.375,00",
+                    "minimum_bid": "R$ 65.625,00",
+                    "location": "Sítio Lanzoni, encravado na FAZENDA SANTA RITA, situado no distrito e município de Turmalina, localizado na estrada de terra sentido trevo de Fátima Paulista à Turmalina, na horta vira à esquerda e segue até entrar à direita em estrada batida depois do açude que existe à esquerda, segue até a última entrada à esquerda antes da curva fechada, em Turmalina/SP.",
+                    "depositary": "Luiz Fernando Lanzoni"
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Vara de Execução de Títulos Extrajudiciais de Taguatinga DF",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2117/documentos/sl-doc-2117-6901006846065-690100684a85f.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "Jose Gustavo Melo Andrade",
+                "court": "VARA DE EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS DE TAGUATINGA"
+            },
+            "auctioneer": {
+                "name": "ANDERSON LOPES DE PAULA",
+                "registration": "100"
+            },
+            "address": null,
+            "website": "https://www.e-leiloeiro.com.br/",
+            "legal_case": {
+                "number": "0008216-74.2011.8.07.0007",
+                "type": null
+            },
+            "parties": {
+                "plaintiff": "IVONETE MIRANDA LOPES",
+                "defendant": "EDUARDO ARAGAO MATHEUS"
+            },
+            "auction_dates": [
+                "25 de novembro de 2025, às 12h30min",
+                "28 de novembro de 2025, às 12h30min"
+            ],
+            "contact": null,
+            "properties": [
+                {
+                    "raw_description": "Quota parte de 50% do imóvel localizado à QE 32, Conjunto C, Casa 24, Guará/DF, devidamente registrado no 4º ofício de registro de imóveis do DF, sob matrícula nº 33953, lote medindo 205,67m2, o lote possui duas casas.. Dados do registro do imóvel: Matrícula n. 33953 - 4 CRI do DF. Inscrição do imóvel no registro fazendário: Não consta.",
+                    "type": "Real Estate",
+                    "valuation": "R$ 350.000,00",
+                    "minimum_bid": "50,00% da avaliação",
+                    "location": "QE 32, Conjunto C, Casa 24, Guará/DF",
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "1ª Vara Cível de Ceilândia DF",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2133/documentos/sl-doc-2133-6908ada755596-6908ada7568fd.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "Cristiana Torres Gonzaga",
+                "court": "1ª VARA CÍVEL DE CEILÂNDIA"
+            },
+            "auctioneer": {
+                "name": "ANDERSON LOPES DE PAULA",
+                "registration": "100"
+            },
+            "address": null,
+            "website": "https://www.e-leiloeiro.com.br/",
+            "legal_case": {
+                "number": "0730955-26.2022.8.07.0003",
+                "type": null
+            },
+            "parties": {
+                "plaintiff": "LUZIA DAMACENO SENE",
+                "defendant": "ADELINO MEDRADO LOPES"
+            },
+            "auction_dates": [
+                "24 de novembro de 2025, às 16h30min",
+                "27 de novembro de 2025, às 16h30min"
+            ],
+            "contact": null,
+            "properties": [
+                {
+                    "raw_description": "Imóvel situado na QNN 19, Conjunto G, Casa 13, Ceilândia/DF, registrado sob a matrícula nº 30.143 do 6º Ofício de Registro Imobiliário do Distrito Federal. . Dados do registro do imóvel: 30.143 do 6º Ofício de Registro Imobiliário do Distrito Federal. Inscrição do imóvel no registro fazendário: Não consta.",
+                    "type": "Real Estate",
+                    "valuation": "R$ 255.000,00",
+                    "minimum_bid": null,
+                    "location": "QNN 19, Conjunto G, Casa 13, Ceilândia/DF",
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2112/documentos/sl-doc-2112-68f7921932c0e-68f7921935c9f.pdf",
+        "extracted_data": {
+            "auction_type": "Unknown",
+            "judge": null,
+            "auctioneer": {
+                "name": "MARILAINE BORGES DE PAULA",
+                "registration": "601"
+            },
+            "address": null,
+            "website": "www.confiancaleiloes.com.br",
+            "legal_case": null,
+            "parties": null,
+            "auction_dates": [
+                "11denovembrode2025",
+                "18denovembrodas2025"
+            ],
+            "contact": [
+                "0800-355-8000",
+                "(16)98240-8000"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Lt.01–SUCATA-VOLKSWAGENGOL1.6,RENAVAM:00833999923.LM:R$450,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "450,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.02–SUCATA-FIATUNOMILLEFIRE.LM:R$450,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "450,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.03-SRGUERRAAG GR,RENAVAM:00997269405.LM:R$16.000,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "16.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.04–SUCATA-VWSantana1.8Mi.LM:R$300,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "300,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.05–SUCATA-VOLKSWAGENKOMBI,RENAVAM:00616063890.LM:R$500,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "500,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.06-REBGUERRA,RENAVAM:00363086331.LM:R$10.400,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "10.400,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.07-CHEVROLETCORSA,RENAVAM:00636428281.LM:R$1.000,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.000,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.08–SUCATA-FIATUNO MILLE, RENAVAM: 00625834666. LM: R$ 450,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "450,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt. 09 - CHEVROLET CORSA, RENAVAM: 00659319675. LM: R$1.587,45.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.587,45",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.10–SUCATA-FIAT/Palio1.0Cel.ECON./ITALIA.LM:R$200,25.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "200,25",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.11-VOLKSWAGENSANTANA, RENAVAM:00665736070.LM:R$1.550,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.550,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.12-SUCATA-GMCorsaSuper1.0,RENAVAM:00681085800.LM:R$225,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "225,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.13–SUCATA-VOLKSWAGEN/GolCL,RENAVAM:00404211976.LM:R$175,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "175,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.14–SUCATA-FIAT UNOMILLEEX.LM:R$500,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "500,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.15–SUCATA-HONDA/C100BIZ.LM:R$25,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "25,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.16–SUCATA-FIAT/Doblo.LM:R$600,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "600,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.17–SUCATA-FIATPALIO.LM:R$875,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "875,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.18–SUCATA-MITSUBISHIMMC,RENAVAM:00230245528.LM:R$1.885,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.885,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.19-MERCEDES-BENZC280,RENAVAM:00966200179.LM:R$12.191,60.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "12.191,60",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.20-VW/GOL1.0GIV, RENAVAM:00487545451.LM:R$4.995,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "4.995,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.21–SUCATA-FIATSTILO,RENAVAM:00124386091.LM:R$900,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "900,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.22-GM/CLASSICLS,RENAVAM:00213015676.LM:R$3.375,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.375,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.23-FORD/FUSION,RENAVAM:00258534095.LM:R$5.872,20.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "5.872,20",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.24-HONDACITYEX,RENAVAM:00227268083.LM:R$3.900,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.900,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.25-FIATUNOVIVACE1.0,RENAVAM:00323606172.LM:R$3.963,30.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.963,30",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.26-VOLKSWAGENNOVOGOL1.0,RENAVAM:00513063560.LM:R$4.550,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "4.550,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.27-TOYOTACOROLLAXEI20,RENAVAM:01007694847.LM:R$16.340,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "16.340,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.28-ILR2016,RENAVAM:01075823177.LM:R$35.490,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "35.490,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.29-VOLKSWAGENGOLTLMB,RENAVAM:01185085103.LM:R$5.625,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "5.625,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.30 -FIATPULSEIMPETUS,RENAVAM:01334015691.LM:R$31.860,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "31.860,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.31-HYUNDAICRETA16A,RENAVAM:01121843252.LM:R$15.612,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "15.612,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.32-FIATUNOMILLEECONOMY,RENAVAM:00158695178.LM:R$2.040,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "2.040,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt. 33 - VOLVO FH12 380, RENAVAM: 00739366327. LM: R$ 17.510,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "17.510,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt. 34 - CHEVROLET CELTA 1.0, RENAVAM: 00468937137. LM: R$3.443,70.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "3.443,70",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.35–SUCUTA-PEUGEOT/405SRi2.0,RENAVAM:00546600441.LM:R$139,22.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "139,22",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt. 36-FORDKAFLEX,RENAVAM:00981367658.LM:R$2.100,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "2.100,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.37–SUCATA–FORDFOCUS1.6L,RENAVAM:00909695261.LM:R$850,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "850,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.38-VWAMAROKCS,RENAVAM:01002425244.LM:R$11.686,35.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "11.686,35",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.39-CHEVROLET ONIX1.0,RENAVAM:01059426037.LM:R$8.540,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "8.540,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.40-FIATFIORINO,RENAVAM:01115219003.LM:R$9.045,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "9.045,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.41-RENAULTLOGAN,RENAVAM:01116389549.LM:R$5.775,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "5.775,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.42-VOLKSWAGEN28.460,RENAVAM:01326323617.LM:R$138.510,00.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "138.510,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.43-HONDA/CG160,RENAVAM:01394295925.LM:R$2.522,85.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "2.522,85",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.44-JTZ D r K 16.0 LM R: E R N$ AV 5 A 0 M ,0 : 0 0. 1 L 3 t. 7 4 3 6 04 - 7 S 6 1 /2 . L F M A C : H R IN $ I, 1 R. E 3 N 0 A 0, V 0 A 0 M . : L 0 t. 1 4 0 5 06 - 94 0 6 1 6 ( 8 U 0 m . a L ) M c : o R rr $ en 8 t . e 70 n 0 a ,0 c 0 o . r L p t. ra 4 t 7 a, - 0 S 8 R/ (O F i A to C ) C p H u IN ls I e , i R ra E s NA na VA c M or : a",
+                    "type": "Other",
+                    "valuation": null,
+                    "minimum_bid": "50,00",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.48-GOLGL,RENAVAM:00413919510.LM:R$1.738,65.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "1.738,65",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.49-SCANIA/R440,RENAVAM:00482095300.LM:R$84.141,60.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "84.141,60",
+                    "location": null,
+                    "depositary": null
+                },
+                {
+                    "raw_description": "Lt.50-FORDKASE1.0,RENAVAM:01167580173.LM:R$13.389,60.",
+                    "type": "Vehicle",
+                    "valuation": null,
+                    "minimum_bid": "13.389,60",
+                    "location": null,
+                    "depositary": null
+                }
+            ]
+        }
+    },
+    {
+        "edital_name": "1ª Vara Cível de Sertãozinho SP",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2114/documentos/sl-doc-2114-68e8256e8337c-68e8256e90712.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": null,
+            "auctioneer": null,
+            "address": null,
+            "website": "jase/rb.suj.psjt.jase//:sptth",
+            "legal_case": {
+                "number": "7950.62.8.3202.76-2780000",
+                "type": null
+            },
+            "parties": {
+                "plaintiff": null,
+                "defendant": null
+            },
+            "auction_dates": [],
+            "contact": [],
+            "properties": []
+        }
+    },
+    {
+        "edital_name": "Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos SENAD",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2122/documentos/sl-doc-2122-68f24ba517180-68f24ba51dc49.pdf",
+        "extracted_data": [
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "George Henrique Ribeiro Benozzati",
+                    "registration": "JUCESP 262"
+                },
+                "address": null,
+                "website": "www.benozzati.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "Desenvolve SP – Agência de Fomento do Estado de São Paulo S.A",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "03 de novembro de 2025 às 11h00"
+                ],
+                "contact": [
+                    "(13) 3011-8410",
+                    "(11) 98466-3786"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "Casa Residencial [ Av.6/46.217] edificada com 207,00m2, Rua César de Menezes, 379 – Bairro Vila Homero Thon, Santo André/SP. Ocupado melhor descrita na Matrícula nº 46.127 do 2º Oficial de Registro de Imóveis e Anexos da Comarca de Santo André, no Estado de São Paulo. Lance Inicial: R$ 501.000,00 (quinhentos e um mil reais). Transferido, em alienação fiduciária [R.8/46.217], à credora fiduciária, para garantia de dívida. Objeto da Cédula de Crédito Bancário – CCB n°6410, emitida pela Desenvolve SP, em 25/02/2019, nos termos do Instrumento de Alienação Fiduciária, com consolidação de propriedade [AV.9/46.127].Encargos do arrematante: pagamento à vista ou parcelado do valor do arremate e 5% de comissão do leiloeiro; emissão de matrícula, certidões para lavratura e registro da escritura; ITBI e despesas com escritura/registro; desocupação do imóvel, e outros descritos no edital.",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": "501.000,00",
+                        "location": "Rua César de Menezes, 379 – Bairro Vila Homero Thon, Santo André/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "Tatiana Hisa Sato",
+                    "registration": "Jucesp nº 817"
+                },
+                "address": "Travessa Comandante Salgado, 75, Fundação – São Caetano do Sul/SP",
+                "website": "www.satoleiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "VERT COMPANHIA SECURITIZADORA",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "31/10/2025 às 14:30",
+                    "07/11/2025 às 14:30"
+                ],
+                "contact": [
+                    "(11) 4223-4343",
+                    "contato@satoleiloes.com.br"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "Apartamento n. 97 do Bloco “B”, localizado no 9º Pavimento do Condomínio Residencial Quita das Oliveiras, situado na Rua dos Flox, s/n, esquina com a Rua das Palmeiras Real e Viela 1, lote 01-A, Quadra 02, do loteamento denominado Residencial e Comercial Portal dos Ipês III, no Bairro do 49,086m2, Cajamar, SP, na área total de 49,086 m2, terreno de 0,5266%, cabendo-lhe uma vaga de garagem, demarcada e descoberta. Av. 02 – 12/08/2014 – TRASLADAMENTO/RESTRIÇÕES URBANISTICAS – consta que sobre este imóvel, ficam mantidas as restrições urbanísticas constantes do plano de loteamento. Av. 06 – 08/02/2017 – TRASLADAMENTO/NUMERAÇÃO PREDIAL – consta que este imóvel possui a numeração predial 321, da Rua dos Flox. Av. 11 – 30/09/2025 – RECADASTRO – conta que o contribuinte foi recadastrado pela municipalidade sob n. 24413.24.91.0001.02.097. Av. 12 – 30/09/2025 – CÓDIGO DE ENDEREÇAMENTO POSTAL – conta que o Código de Endereçamento Postal é 07791-060. Jundiaí/SP.",
+                        "type": "Real Estate",
+                        "valuation": "293.497,47",
+                        "minimum_bid": "228.996,96",
+                        "location": "Rua dos Flox, s/n, esquina com a Rua das Palmeiras Real e Viela 1, lote 01-A, Quadra 02, do loteamento denominado Residencial e Comercial Portal dos Ipês III, no Bairro do 49,086m2, Cajamar, SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "Tatiana Hisa Sato",
+                    "registration": "mat. Jucesp nº 817"
+                },
+                "address": null,
+                "website": "www.satoleiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "BANCO RIBEIRÃO PRETO S/A",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "03/11/2025 às 14:30",
+                    "04/11/2025 às 14:30"
+                ],
+                "contact": [
+                    "(11) 4223-4343",
+                    "contato@satoleiloes.com.br"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "Um terreno com frente para a Rua Projetada 11, José do Rio Preto/SP, encerrando uma área superficial de 346,90 m². Ocupado. Matrícula nº 137.213 – 1º Oficial de Registro de Imóveis de São José do Rio Preto/SP.",
+                        "type": "Real Estate",
+                        "valuation": "260.000,00",
+                        "minimum_bid": "149.927,04",
+                        "location": "Rua Projetada 11, José do Rio Preto/SP",
+                        "depositary": null
+                    },
+                    {
+                        "raw_description": "MOTOR SIEMENS | PLACA MAGNETICA PARA PROPRIEDADES DE LEILOES, 24/07/2025. MOTOR LINEAR.",
+                        "type": "Other",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": null,
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "Antonio Hissao Sato Junior",
+                    "registration": "Jucesp 690"
+                },
+                "address": null,
+                "website": "www.satoleiloes.com.br",
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "MAPFRE SEGUROS GERAIS S.A.",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "21 de outubro de 2025 às 10:00"
+                ],
+                "contact": [
+                    "(16) 3826-1818",
+                    "contato@satoleiloes.com.br"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "AERONAVE EMB-202A | PREFIXO PT-VTR | ANO 2011 | NÚMERO DE SÉRIE 20001164.",
+                        "type": "Vehicle",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": "Rod. Coronel Francisco Orlando Km 02 - CEP: 14620-000 - Orlândia/SP",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Unknown",
+                "judge": null,
+                "auctioneer": {
+                    "name": "MARIA BEATRIZ DE BARROS SANTORO VILELA MORAES",
+                    "registration": "JUCESP n° 1126"
+                },
+                "address": "Rua Dr. João Marques Maurício, nº 269 - Gramado - Embu das Artes/SP - CEP: 06816-040",
+                "website": "www.milanleiloes.com.br",
+                "legal_case": {
+                    "number": "70007218-7",
+                    "type": null
+                },
+                "parties": {
+                    "plaintiff": "VERT COMPANHIA SECURITIZADORA",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "31 de Outubro de 2025 a partir das 09h00",
+                    "07 de Novembro de 2025 a partir das 15h00"
+                ],
+                "contact": [
+                    "vera@gazetasp.com.br",
+                    "revesp@revesp.com.br",
+                    "revesp@uol.com.br",
+                    "atendimento@gazetasp.com.br",
+                    "eduardo@revesp.com.br",
+                    "(11) 3729-6600",
+                    "94390-6803",
+                    "5051-7723",
+                    "5051-4611",
+                    "(11) 3107-0933"
+                ],
+                "properties": [
+                    {
+                        "raw_description": "O apartamento n° 86, localizado no 8º andar ou 8° pavimento, integrante do empreendimento denominado Condomínio Edifício Vivaz Vila Prudente, situado na Rua Giestas, n° 186, no 26° Subdistrito- Vila Prudente, com a área privativa de 64,500m² (já incluído o direito uma vaga para estacionamento de um veículo de passeio, em local indeterminado, coberta ou descoberta, com a área de 4,959m²), a área comum de 44,168m², a área total de 109,610m², correspondendo-lhe uma fração ideal no terreno e nas demais coisas comuns de 0,009016 (equivalente a 0,9016%) e ainda, o direito de utilização de armário guarda-volumes n° 44, localizado no 2° subsolo, com área útil de 1,68m² (mais área comum).",
+                        "type": "Real Estate",
+                        "valuation": null,
+                        "minimum_bid": null,
+                        "location": "Rua Giestas, n° 186, no 26° Subdistrito- Vila Prudente",
+                        "depositary": null
+                    }
+                ]
+            },
+            {
+                "auction_type": "Extrajudicial",
+                "judge": null,
+                "auctioneer": {
+                    "name": "ANTONIO MAGNO JACOB DA ROCHA",
+                    "registration": "JUCEPAR n° 08/020-L"
+                },
+                "address": "Rua Augusto Zibarth, 994 - Curitiba/PR",
+                "website": null,
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": "LOPES & SECHURA SECURITIZADORA S.A.",
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "23/10/2025 às 09h45",
+                    "24/10/2025 às 09h45"
+                ],
+                "contact": [],
+                "properties": []
+            },
+            {
+                "auction_type": "Unknown",
+                "judge": null,
+                "auctioneer": {
+                    "name": "Rogério Soares",
+                    "registration": "JUCESP nº. 1.026"
+                },
+                "address": null,
+                "website": null,
+                "legal_case": null,
+                "parties": {
+                    "plaintiff": null,
+                    "defendant": null
+                },
+                "auction_dates": [
+                    "16/10"
+                ],
+                "contact": [],
+                "properties": []
+            }
+        ]
+    },
+    {
+        "edital_name": "2ª Vara Cível de Orlândia",
+        "file_url": "https://static.e-leiloes.com.br/eleiloescombr/leiloes/2042/documentos/sl-doc-2042-6824a3aebf888-6824a3aec1160.pdf",
+        "extracted_data": {
+            "auction_type": "Judicial",
+            "judge": {
+                "name": "Juliana Francini dos Reis Costa",
+                "court": "2ª VARA CÍVEL DA COMARCA DE ORLÂNDIA/SP"
+            },
+            "auctioneer": {
+                "name": "MARILAINE BORGES DE PAULA",
+                "registration": "601"
+            },
+            "address": "Av Juscelino Kubitschek, 1455 4º Vila Olímpia, CEP 04543-011\nAv Braz Olaia Acosta, 727 5º Andar Jd. Califórnia, CEP 14026-040",
+            "website": "www.confiancaleiloes.com.br",
+            "legal_case": {
+                "number": "0000740-70.2024.8.26.0404",
+                "type": "Cumprimento de sentença – Liquidação / Cumprimento / Execução"
+            },
+            "parties": {
+                "plaintiff": "Adilson Donizete dos Santos e outros",
+                "defendant": "Carlos Eduardo dos Santos"
+            },
+            "auction_dates": [
+                "06 de maio às 11hs à 06 de novembro de 2025 às 11hs"
+            ],
+            "contact": [
+                "11 4372 9034",
+                "11 98288 1000",
+                "11 3515 8000",
+                "16 98240 8000",
+                "leiloeira@e-confianca.com.br"
+            ],
+            "properties": [
+                {
+                    "raw_description": "Um veículo marca/modelo GM/ASTRA HB 2.0 4P Advantage, Flex, ano/modelo\n2008/2008, cor preta, placa CZG 2469, Chassi 9BGTR48W08B264544, Renavam\n00958725276, em bom estado geral de conservação e uso.",
+                    "type": "Vehicle",
+                    "valuation": "R$ 31.000,00",
+                    "minimum_bid": "R$ 15.500,00",
+                    "location": "Avenida Dezoito, nº 126 – Jardim Recreio – Orlândia/SP",
+                    "depositary": null
+                }
+            ]
+        }
+    }
+]
