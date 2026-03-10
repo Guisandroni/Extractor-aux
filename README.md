@@ -1,119 +1,58 @@
-# Auction Scraper (AI-Crawler)
+# AI Auction Extrator
 
-This project is a powerful AI-driven tool designed to discover and extract real estate auction opportunities from a diverse range of auctioneer websites.
+This project is an AI-driven tool designed to extract structured data from real estate auction notices (Editais de Leilão) in PDF format. It uses Large Language Models (LLMs) to read, analyze, and categorize the assets listed in the documents.
 
-Unlike traditional scrapers that rely on brittle CSS selectors, this crawler leverages **Large Language Models (Gemini Flash)** to intelligently navigate websites and extract unstructured data into a standardized format.
+## Features
+
+- **Text Extraction**: Reads standard PDF documents to extract the content of auction notices.
+- **OCR Fallback for Scanned PDFs**: Automatically detects PDFs that are scanned images (low extractable text) and uses **Google Gemini Vision** to extract the text reliably.
+- **Structured Data Extraction**: Employs **LangChain** and **Gemini 2.5 Flash** to intelligently extract and categorize assets, returning a standardized JSON output.
+- **Categorized Classification**: Separates extracted items into distinct categories: `houses`, `land`, `real_estate`, `vehicles`, and `others`. Each item includes details such as description, type, location, appraisal value, and minimum bid.
 
 ## Directory Structure
 
-Run the code from the root `ai-crawler/` directory.
-
-- **`src/`**: Contains the source code and the `auction_scraper` package.
-- **`results/`**: Stores all output files (JSON data, downloaded PDFs, logs).
-- **`aux/`**: Contains auxiliary files such as input lists (`sites_de_leilao.txt`) and configuration.
-
-## Architecture
-
-The system is built as a modular Python pipeline that separates discovery, extraction, and standardization.
-
-```mermaid
-flowchart TD
-    subgraph Inputs
-        Sites[sites_de_leilao.txt]
-        PDFs[Editais PDFs]
-    end
-
-    subgraph "Core Pipeline (src/)"
-        CLI[CLI Entry Point]
-        
-        subgraph "AI Crawler Pipeline"
-            Nav[LLM Navigator] --> |Find Listing Page| Listings[Listing Page HTML]
-            Listings --> |Extract Items| LLM[LLM Extractor]
-            LLM --> StructuredItems[Structured Items]
-        end
-
-        subgraph "Legacy Pipelines"
-            EditalScraper[Edital Scraper] --> PDFDownloader[PDF Downloader]
-            PDFDownloader --> PDFText[PDF to Text]
-            PDFText --> LLMAnalysis[LLM Analysis]
-        end
-    end
-
-    subgraph "Outputs (results/)"
-        JSON[items_extracted.json]
-        PDF_Out[Downloaded PDFs]
-        CSV[Scraped Data]
-    end
-
-    CLI --> |Selects| Nav
-    CLI --> |Selects| EditalScraper
-    
-    Sites --> Nav
-    EditalScraper --> PDFs
-    StructuredItems --> JSON
-    LLMAnalysis --> JSON
-```
+- **`src/agent_extrator/`**: Contains the source code for the AI extraction agent and CLI.
+- **`results/editais_pdfs/`**: Default directory where source PDF notices should be placed.
+- **`results/`**: Stores the output JSON file containing the extracted and categorized properties.
 
 ## Installation
 
-1.  Clone the repository.
-2.  Navigate to the `ai-crawler` directory.
-3.  Install the package in editable mode:
+1. Clone the repository and navigate to the project root.
+2. Create and activate a Python virtual environment.
+3. Install the package and its dependencies:
 
 ```bash
 pip install -e .
 ```
 
-*Required Environment Variable:*
-```bash
-export GEMINI_API_KEY="your_api_key_here"
+4. Create a `.env` file in the root directory and add your Google API Key:
+
+```env
+GOOGLE_API_KEY="your_google_api_key_here"
 ```
+
+*(Note: The codebase uses Google Gemini 2.5 Flash by default, but it can optionally be adapted to use Groq if desired by editing the agent initialization).*
 
 ## Usage
 
-The tool is controlled via the `python -m auction_scraper.cli` entry point.
+Place your auction notice PDFs in the `results/editais_pdfs` directory (or specify a custom directory).
 
-### 1. Crawl Real Estate Items (Recommended)
-This is the main pipeline that visits auctioneer sites and finds properties.
-
-```bash
-# Run on the first 10 sites
-python3 -m auction_scraper.cli --items --limit 10
-
-# Resume from offset 10
-python3 -m auction_scraper.cli --items --limit 10 --offset 10
-```
-
-### 2. Scrape Auction Notices (Editais)
-Downloads and analyzes PDF notices.
+Run the extraction agent using the installed CLI tool:
 
 ```bash
-python3 -m auction_scraper.cli --editais --limit 20
+extract --extract
 ```
 
-### 3. Scrape Auctioneer Registry
-Updates the list of auctioneers.
+### CLI Options
+
+The `extract` command supports the following arguments:
+
+- `--extract`: Run the AI extraction agent on auction PDF notices.
+- `--pdfs-dir`: Directory where the source PDFs are located (default: `results/editais_pdfs`).
+- `--output`: Path to save the resulting JSON database (default: `results/categorized_properties.json`).
+
+Example with custom paths:
 
 ```bash
-python3 -m auction_scraper.cli --leiloeiros
+extract --extract --pdfs-dir /path/to/my/pdfs --output /path/to/output.json
 ```
-
-## Roadmap & TODOs
-
-### Automation & Pipeline
-- [ ] **Pipeline Automation**: Create a scheduled cron job or airflow DAG to run the crawler daily.
-- [ ] **Browser-Based Crawling**: Integrate a headless browser (Puppeteer/Playwright) for sites that require JS rendering (React/Vue apps).
-- [ ] **Adaptive Strategy**: Implement a hybrid approach:
-    - *Tier 1*: Fast HTTP crawling + LLM for simple sites.
-    - *Tier 2*: Browser automation for complex sites.
-
-### Data Management
-- [ ] **De-duplication**: Implement a hash map mechanism (based on address + value + description) to prevent duplicate entries from multiple runs.
-- [ ] **Database Integration**: Replace JSON output with **Supabase (PostgreSQL)** for persistence.
-    - Schema: `items (id, title, valuation, minimum_bid, link, source_site, created_at, updated_at)`
-- [ ] **Contrato Definition**: Define a strict JSON schema (Pydantic model) for the "Item" contract to ensure data quality.
-
-### Visualization
-- [ ] **Web Interface**: Build a frontend to list results, filter by value/location, and view photos.
-# br-auction
-# br-auction
