@@ -6,7 +6,7 @@
         "vehicles": [
             {
                 "description": "VW/Parati CL 1.8 MI, placa C IN1B65, Renavam 00675406455, preta, Chassi 9BWZZZ379VT050180, gasolina, ano/modelo 1997/1997",
-                "type": "car",
+                "type": "Car",
                 "location": "Av. Paranapanema, nº 370 – Iporã – Cep 16021-390 – Araçatuba/SP",
                 "appraisal_value": 15341.0,
                 "minimum_bid": 9204.6
@@ -70,30 +70,30 @@
         "real_estate": [],
         "vehicles": [
             {
-                "description": "SUCATA - Volkswagen Fusca 1500, Renavam 00511279590.",
-                "type": "Car (Scrap)",
-                "location": "São Paulo/SP",
+                "description": "SUCATA - Volkswagen Fusca 1500, Renavam 00511279590",
+                "type": "Car",
+                "location": "Estado de São Paulo",
                 "appraisal_value": null,
                 "minimum_bid": 640.0
             },
             {
-                "description": "I/Audi, Renavam 00638482828.",
+                "description": "I/Audi, Renavam 00638482828",
                 "type": "Car",
-                "location": "São Paulo/SP",
+                "location": "Estado de São Paulo",
                 "appraisal_value": null,
                 "minimum_bid": 5280.0
             },
             {
-                "description": "Fiat Uno Vivace, Renavam 00226862119.",
+                "description": "Fiat Uno Vivace, Renavam 00226862119",
                 "type": "Car",
-                "location": "São Paulo/SP",
+                "location": "Estado de São Paulo",
                 "appraisal_value": null,
                 "minimum_bid": 6600.0
             },
             {
-                "description": "SUCATA - Chevrolet Kadett GL, Renavam 00623492610.",
-                "type": "Car (Scrap)",
-                "location": "São Paulo/SP",
+                "description": "SUCATA - Chevrolet Kadett GL, Renavam 00623492610",
+                "type": "Car",
+                "location": "Estado de São Paulo",
                 "appraisal_value": null,
                 "minimum_bid": 400.0
             }
@@ -101,33 +101,18 @@
         "others": []
     },
     "sl-doc-2110-68d5a55d2a4e2-68d5a55d2e745.pdf": {
-        "houses": [],
-        "land": [],
-        "real_estate": [
+        "houses": [
             {
-                "description": "Matrícula nº 56.858 (número do registro anterior da matrícula 43.214) – CRI de Fernandópolis/SP: Direitos sobre as partes executadas, sendo uma propriedade rural com denominação especial de “Sítio Santo Antônio”, designada de área 3-A (AV. 2/56.858 - alteração de denominação para “Estância dos Amigos”). Direitos sobre as partes executadas - Um terreno designado como lote 10, encravado na Fazenda Santa Rita, com a denominação especial de Sítio Santo Antônio (Estância 2 Irmãos), com 1.500 metros quadrados, contendo uma casa residencial, composta por uma sala, três dormitórios, banheiro social e varanda, em estado mediano de conservação.",
-                "type": "Propriedade rural com casa residencial",
-                "location": "Estância 2 Irmãos, Lote 10 – Sítio Santo Antônio, encravado na Fazenda Santa Rita – Fernandópolis/SP.",
+                "description": "Direitos sobre as partes executadas - Um terreno designado como lote 10, encravado na Fazenda Santa Rita, com a denominação especial de Sítio Santo Antônio (Estância 2 Irmãos), com 1.500 metros quadrados, contendo uma casa residencial, composta por uma sala, três dormitórios, banheiro social e varanda, em estado mediano de conservação. Matrícula nº 56.858 (registro anterior 43.214) – CRI de Fernandópolis/SP. Propriedade rural com denominação especial de “Sítio Santo Antônio”, designada de área 3-A (AV. 2/56.858 - alteração de denominação para “Estância dos Amigos”).",
+                "type": "Casa Residencial em Lote Rural",
+                "location": "Estância 2 Irmãos, Lote 10 – Sítio Santo Antônio, encravado na Fazenda Santa Rita – Fernandópolis/SP",
                 "appraisal_value": 145000.0,
                 "minimum_bid": 72500.0
             }
         ],
-        "vehicles": [],
-        "others": []
-    },
-    "sl-doc-2102-6900f8123c235-6900f812401a5.pdf": {
-        "houses": [],
         "land": [],
         "real_estate": [],
-        "vehicles": [
-            {
-                "description": "Veículo da marca Ford, modelo EcoSport XLS 2.0, à gasolina, cor prata, cinco portas, ano de fabricação/modelo 2007/2008, placa DTP1G97 de Fernandópolis/SP, Renavam 00952450240, em bom estado de uso e conservação.",
-                "type": "Car",
-                "location": "Rua Brotas, nº 805 – CDHU Ângelo Parminondi – Estrela D’Oeste/SP",
-                "appraisal_value": 31699.0,
-                "minimum_bid": 19019.4
-            }
-        ],
+        "vehicles": [],
         "others": []
     }
 }

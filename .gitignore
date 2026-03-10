@@ -1,1 +1,6 @@
 .env
+another_src
+results/editais_extracted_llm.json
+results/editais_extracted.json
+results/items_extracted.json
+results/leiloeiros_innlei.csv

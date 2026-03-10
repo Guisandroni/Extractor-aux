@@ -1,0 +1,3 @@
+[console_scripts]
+extract = agent_extrator.cli:main
+scrape = another_src.auction_scraper.cli:main

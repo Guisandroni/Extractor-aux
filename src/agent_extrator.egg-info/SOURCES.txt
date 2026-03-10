@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/agent_extrator/__init__.py
+src/agent_extrator/agent_extrator_imoveis.py
+src/agent_extrator/cli.py
+src/agent_extrator.egg-info/PKG-INFO
+src/agent_extrator.egg-info/SOURCES.txt
+src/agent_extrator.egg-info/dependency_links.txt
+src/agent_extrator.egg-info/entry_points.txt
+src/agent_extrator.egg-info/requires.txt
+src/agent_extrator.egg-info/top_level.txt
